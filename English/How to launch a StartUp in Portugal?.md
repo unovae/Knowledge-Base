@@ -4,7 +4,7 @@ Today, starting a company is a straightforward process that can be initiated qui
 
 ## Company in one Hour counter 
 Locations: https://justica.gov.pt/Servicos/Empresa-na-Hora/Contactos 
-### **First steps:**
+## **First steps:**
 1. Choose the name of the company; 
 2. Define the accountant; 
 3. Sign the fiscal pact; 
@@ -39,7 +39,7 @@ The Share Capital is the amount invested by the partners or shareholders to star
 
 The deposit of the share capital must be made within 5 days after the company's creation, into the respective bank account. 
 
-### **Steps after registration in company in one hour counter:**
+## **Steps after registration in company in one hour counter:**
 5. RCBE; 
 6. Registration with Tax Authority. 
 
@@ -52,6 +52,7 @@ The period between the company's creation and the mandatory registration with th
 
 Once the certified accountant is defined at the company's creation, this registration can be done online (via the link https://www.portaldasfinancas.gov.pt/at/html/index.html). 
 
+# Extra Information
 ## Costs: 
 - Registration at an "Empresa na Hora" counter: €360 
 - Brand association (optional): €200 
