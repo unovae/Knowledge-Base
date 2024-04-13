@@ -13,7 +13,7 @@ Sendo este um documento informativo sobre a criação de uma Startup em Portugal
 Fazendo a separação pelo número de sócios fundadores, existem: 
 
 ### Empresas singulares: 
----
+
 - **Empresário em nome individual**
     - Pessoa singular que dá início à sua atividade nas finanças, por conta própria. A pessoa responde de forma ilimitada sobre os seus bens, ou seja, se a sua empresa singular tiver dívidas, os bens pessoais podem ser penhorados como pagamento. Integra a categoria B do IRS (rendimento empresarial - produzir e/ou vender mercadorias; rendimento profissional - prestar serviços). Não existe capital social mínimo e só precisa de apresentar um contabilista responsável para volumes de negócio acima dos 200000€. É uma forma jurídica destinada a micro-negócios. 
 
@@ -27,7 +27,7 @@ Fazendo a separação pelo número de sócios fundadores, existem:
 
 
 ### Empresas coletivas
----
+
 - **Sociedades por quotas**
     - É o tipo de sociedade comercial mais comum em Portugal. Tem o mínimo de 2 sócios, não sendo permitido a existência de sócios de indústria (sócio que entra na empresa como trabalhador sem contribuir para o capital social). O valor com que cada sócio contribui para o capital social torna-o detentor da quota correspondente (ficando dono de x% desse capital social). O património da empresa é independente do património pessoal dos sócios (responsabilidade limitada). Tanto as dividas como os lucros da empresa são pagos/distribuídos na proporção correspondente as cotas de cada sócio. O capital social mínimo é de 1€ por sócio (apesar de um valor tão baixo não ser aconselhado devido à falta de garantias que a sociedade apresentaria perante qualquer dívida). O nome de uma sociedade por cotas termina sempre com “Lda” ou “limitada”. 
 
@@ -49,7 +49,7 @@ Fazendo a separação pelo número de sócios fundadores, existem:
  
 
 ### Como escolher o tipo de sociedade comercial adequado para a tua startup: 
----
+
 Para escolher o tipo de sociedade comercial adequado, dos referidos acima, é preciso ter em conta: 
 - Tamanho da empresa; 
 - Nº de sócios; 
