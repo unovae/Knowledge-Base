@@ -99,6 +99,7 @@ Quanto ao Estabelecimento individual de responsabilidade limitada, existe uma li
 
  ---
 Referências: 
+
 https://rauva.com/pt/blog/guia-pratico-requisitos-legais-startups-portugal  
 https://justica.gov.pt/Servicos/Empresa-na-Hora#Quempodecriar  
 https://www.sociedadescomerciais.pt/sociedade-comercial/  
