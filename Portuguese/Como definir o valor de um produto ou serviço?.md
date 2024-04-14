@@ -103,6 +103,7 @@ Agora já conhecendo os custos do negócio, o mercado e os objetivos da empresa,
  
 ---
 Referencias: 
+
 https://sebrae.com.br/sites/PortalSebrae/artigos/como-definir-o-preco-de-venda-de-um-produto-ou-servico,cc9836627a963410VgnVCM1000003b74010aRCRD#:~:text=O%20valor%20deve%20cobrir%20o,e%20o%20financeiro%20(interno).  
 https://verapereira.pt/como-definir-o-preco-de-um-servico-ou-produto/ 
 https://jumpseller.pt/learn/price-of-my-product/ 
