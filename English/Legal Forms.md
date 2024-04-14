@@ -62,7 +62,7 @@ That being said, and moving on to 3 specific examples:
 
  
  
-##### Early-Stage Technology Startup (Sole Proprietorship): 
+#### Early-Stage Technology Startup (Sole Proprietorship): 
 
 - Description: A startup founded by a single entrepreneur, focused on developing artificial intelligence software for small businesses.  
 - Number of Partners: 1  
@@ -72,7 +72,7 @@ That being said, and moving on to 3 specific examples:
     - Reasons: A SQPLC can be an excellent option for individual entrepreneurs who want to start a business without having to assume unlimited personal liability for the company's debts and obligations. Additionally, it is a relatively simple and straightforward structure, which can be advantageous for a startup in its early stage, as it reduces administrative complexity and associated costs. 
 
 
-##### Growing Biotechnology Startup (Small Business): 
+#### Growing Biotechnology Startup (Small Business): 
 
 - Description: A startup founded by three scientists, focused on research and development of innovative treatments for neurodegenerative diseases.  
 - Number of Partners: 3 
@@ -82,7 +82,7 @@ That being said, and moving on to 3 specific examples:
     - Reasons: With multiple partners and a highly technical activity, a private limited company offers a flexible structure that eases management and internal organization. Additionally, it provides limitation of partners' liability to the invested share capital, which is crucial in a research and development field that may involve risks and legal challenges. 
 
  
-##### Large-Scale Renewable Energy Startup: 
+#### Large-Scale Renewable Energy Startup: 
 
 - Description: A startup founded by a group of investors, engineers, and energy specialists, with the goal of developing and implementing large-scale solar and wind energy projects. 
 - Number of Partners: 10 (including institutional investors, engineers, and energy specialists)  
