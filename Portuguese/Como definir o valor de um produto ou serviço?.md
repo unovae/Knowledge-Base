@@ -15,8 +15,8 @@ Primeiro que tudo, o preço praticado deverá ser suficiente para cobrir todos o
     - Para serviços: Variam com a quantidade de serviço prestado. Exemplos: materiais usados no serviço, comissões de vendas, entre outros. Também é possível saber o custo por serviço, através dos custos incorridos pela empresa em cada vez que este é prestado. 
 
  
-A plataforma de e-commerce Shopify disponibiliza um documento em Excel: https://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926. 
-Introduzindo os custos fixos e variáveis da empresa e o preço médio de venda do produto, este permite-nos saber quantas unidades têm de ser vendidas para que o negócio se torne lucrativo (identificado com o termo “Break-Even Units”). É uma forma de entender se existe uma relação financeiramente saudável entre os custos e o preço praticado. Para uma descrição mais detalhada do seu funcionamento, aceder a este link: https://www.shopify.com/blog/break-even-analysis#7
+A plataforma de e-commerce Shopify disponibiliza um documento em Excel: [break-even calculator](spreadsheethttps://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926.) 
+Introduzindo os custos fixos e variáveis da empresa e o preço médio de venda do produto, este permite-nos saber quantas unidades têm de ser vendidas para que o negócio se torne lucrativo (identificado com o termo “Break-Even Units”). É uma forma de entender se existe uma relação financeiramente saudável entre os custos e o preço praticado. Para uma descrição mais detalhada do seu funcionamento, aceder a este link: [calculator guide](https://www.shopify.com/blog/break-even-analysis#7)
 
  
 
@@ -42,7 +42,7 @@ Para identificar a margem de lucro aceitável para o produto/serviço em causa �
 
  
 Mais uma vez, a plataforma Shopify disponibiliza uma calculadora, em que ao introduzir o custo de produção de uma unidade de produto e o *Markup*(1) desejado, é calculado o preço de venda do produto, o lucro em cada venda e a margem de lucro (antes dos impostos e descartando os custos fixos, “Gross Margin”). 
-Para aceder à calculadora: https://www.shopify.com/tools/profit-margin-calculator
+Para aceder à calculadora: [Profit Margin Calculator](https://www.shopify.com/tools/profit-margin-calculator)
 1: *Markup* – valor a adicionar ao custo de produção de uma unidade, para gerar lucro (para um produto que custe 20€ a produzir, se o empresário quiser ganhar 4€ na sua venda, estamos a falar de um markup de 20%, ficando o produto à venda por 24€) 
 
  
