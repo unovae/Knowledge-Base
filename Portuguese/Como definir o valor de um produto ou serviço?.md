@@ -43,6 +43,7 @@ Para identificar a margem de lucro aceitável para o produto/serviço em causa �
  
 Mais uma vez, a plataforma Shopify disponibiliza uma calculadora, em que ao introduzir o custo de produção de uma unidade de produto e o *Markup*(1) desejado, é calculado o preço de venda do produto, o lucro em cada venda e a margem de lucro (antes dos impostos e descartando os custos fixos, “Gross Margin”). 
 Para aceder à calculadora: [Profit Margin Calculator](https://www.shopify.com/tools/profit-margin-calculator)
+
 1: *Markup* – valor a adicionar ao custo de produção de uma unidade, para gerar lucro (para um produto que custe 20€ a produzir, se o empresário quiser ganhar 4€ na sua venda, estamos a falar de um markup de 20%, ficando o produto à venda por 24€) 
 
  
