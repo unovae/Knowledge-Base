@@ -15,7 +15,7 @@ First and foremost, the price practiced should be sufficient to cover all costs 
     - For services: Vary with the quantity of service provided. Examples: materials used in the service, sales commissions, among others. It is also possible to know the cost per service, through the costs incurred by the company each time it is provided. 
 
  
-The e-commerce platform Shopify provides an Excel document: spreadsheethttps://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926. By inputting the fixed and variable costs of the company and the average selling price of the product, it allows us to determine how many units need to be sold for the business to become profitable (identified with the term "Break-Even Units"). It's a way to understand if there is a financially healthy relationship between costs and the price practiced. For a more detailed description of its functioning, access this link: [calculator guide](https://www.shopify.com/blog/break-even-analysis#7)
+The e-commerce platform Shopify provides an Excel document: [Break-even calculator](https://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926). By inputting the fixed and variable costs of the company and the average selling price of the product, it allows us to determine how many units need to be sold for the business to become profitable (identified with the term "Break-Even Units"). It's a way to understand if there is a financially healthy relationship between costs and the price practiced. For a more detailed description of its functioning, access this link: [calculator guide](https://www.shopify.com/blog/break-even-analysis#7)
 
 
  
