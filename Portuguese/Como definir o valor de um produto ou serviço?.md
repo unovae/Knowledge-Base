@@ -15,7 +15,7 @@ Primeiro que tudo, o preço praticado deverá ser suficiente para cobrir todos o
     - Para serviços: Variam com a quantidade de serviço prestado. Exemplos: materiais usados no serviço, comissões de vendas, entre outros. Também é possível saber o custo por serviço, através dos custos incorridos pela empresa em cada vez que este é prestado. 
 
  
-A plataforma de e-commerce Shopify disponibiliza um documento em Excel: [Break-even calculator](https://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926)
+A plataforma de e-commerce Shopify disponibiliza um documento em Excel: [Break-even calculator](https://cdn.shopify.com/s/files/1/0070/7032/files/Break-Even_Analysis_Template--Dana_Athletics.xlsx?v=1711144926). 
 Introduzindo os custos fixos e variáveis da empresa e o preço médio de venda do produto, este permite-nos saber quantas unidades têm de ser vendidas para que o negócio se torne lucrativo (identificado com o termo “Break-Even Units”). É uma forma de entender se existe uma relação financeiramente saudável entre os custos e o preço praticado. Para uma descrição mais detalhada do seu funcionamento, aceder a este link: [calculator guide](https://www.shopify.com/blog/break-even-analysis#7)
 
  
