@@ -58,7 +58,7 @@ Para escolher o tipo de sociedade comercial adequado, dos referidos acima, é pr
 
 Dito isto, e passando a 3 exemplos específicos: 
 
-##### Startup de Tecnologia em Fase Inicial (Empresa singular): 
+#### Startup de Tecnologia em Fase Inicial (Empresa singular): 
 
 - Descrição: Uma startup fundada por um único empreendedor, focada no desenvolvimento de software de inteligência artificial para pequenas empresas. 
 - Número de Sócios: 1 
@@ -68,7 +68,7 @@ Dito isto, e passando a 3 exemplos específicos:
     - Razões: A SU pode ser uma excelente opção para empreendedores individuais que desejam iniciar um negócio sem ter que assumir a responsabilidade pessoal ilimitada pelas dívidas e obrigações da empresa. Além disso, é uma estrutura relativamente simples e direta, o que pode ser vantajoso para uma startup na sua fase inicial, pois reduz a complexidade administrativa e os custos associados. 
 
  
-##### Startup de Biotecnologia em Crescimento (Pequena Empresa): 
+#### Startup de Biotecnologia em Crescimento (Pequena Empresa): 
 
 - Descrição: Uma startup fundada por três cientistas, focada na pesquisa e desenvolvimento de tratamentos inovadores para doenças neurodegenerativas. 
 - Número de Sócios: 3 
@@ -78,7 +78,7 @@ Dito isto, e passando a 3 exemplos específicos:
     - Razões: Com múltiplos sócios e uma atividade altamente técnica, a Sociedade por Quotas oferece uma estrutura flexível de gestão e organização interna. Além disso, proporciona limitação da responsabilidade dos sócios ao capital social investido, o que é crucial em uma área de pesquisa e desenvolvimento que pode envolver riscos e desafios legais. 
 
  
-##### Startup de Energias Renováveis de Grande Porte: 
+#### Startup de Energias Renováveis de Grande Porte: 
 
 - Descrição: Uma startup fundada por um grupo de investidores, engenheiros e especialistas em energia, com o objetivo de desenvolver e implementar projetos de grande escala de energia solar e eólica. 
 - Número de Sócios: 10 (incluindo investidores institucionais, engenheiros e especialistas em energia) 
