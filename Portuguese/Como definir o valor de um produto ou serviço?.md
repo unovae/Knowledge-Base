@@ -6,7 +6,7 @@ Definir o preço de um produto ou serviço é um passo importantíssimo para o s
 No entanto, para o fazer, é preciso ter em conta alguns aspetos: 
 
  
-#####  Aspeto financeiro interno: 
+####  Aspeto financeiro interno: 
 
 Primeiro que tudo, o preço praticado deverá ser suficiente para cobrir todos os custos pelos quais a empresa é responsável e ainda gerar uma margem de lucro. Nestes custos estão incluídos: 
 - Custos fixos: Estas são as despesas que não variam com a quantidade de produto produzida e vendida (o mesmo se aplica para os serviços). São exemplos disto: renda do espaço físico, conta da água, internet, salários, entre outros. 
@@ -20,7 +20,7 @@ Introduzindo os custos fixos e variáveis da empresa e o preço médio de venda 
 
  
 
-##### Aspeto mercadológico: 
+#### Aspeto mercadológico: 
 
 É igualmente importante investigar sobre o mercado onde se insere o produto ou serviço em causa. 
 Para que o preço escolhido seja justo e competitivo é necessário: 
@@ -30,7 +30,7 @@ Para que o preço escolhido seja justo e competitivo é necessário:
 
  
 
-##### Margem de lucro: 
+#### Margem de lucro: 
 
 Para garantir a saúde financeira e o crescimento do negócio, é necessário que o preço do produto/serviço permita gerar lucro. A margem de lucro (ML) permite-nos saber qual é a percentagem de lucro por venda, antes dos impostos, e a sua fórmula é a seguinte: 
 
