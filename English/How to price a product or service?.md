@@ -45,7 +45,7 @@ Once again, the Shopify platform provides a calculator, where by entering the pr
 
 NOTE: If the price charged by the competition is lower than what is required by the internal costs of the company and the expected profit margin, it is necessary to reassess the viability of the business in question. To balance the selling price, it will be necessary to reduce fixed or variable costs of the company, or even accept a lower profit margin. 
 
-### Pricing strategies: 
+## Pricing strategies: 
 
 Now that you know the business costs, the market, and the company's objectives, the only thing left is to choose the strategy to adopt in defining the price: 
 
