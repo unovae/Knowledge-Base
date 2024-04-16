@@ -103,11 +103,11 @@ Agora já conhecendo os custos do negócio, o mercado e os objetivos da empresa,
 
  
 ---
-Referências: 
+Referências:
 
-https://sebrae.com.br/sites/PortalSebrae/artigos/como-definir-o-preco-de-venda-de-um-produto-ou-servico,cc9836627a963410VgnVCM1000003b74010aRCRD#:~:text=O%20valor%20deve%20cobrir%20o,e%20o%20financeiro%20(interno).  
-https://verapereira.pt/como-definir-o-preco-de-um-servico-ou-produto/ 
-https://jumpseller.pt/learn/price-of-my-product/ 
-https://www.shopify.com/blog/how-to-price-your-product?term=&adid=649248676748&campaignid=19724533104&utm_medium=cpc&utm_source=google&gad_source=1&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuaeIuxFXq1Fm0u9JbBrP9GfB5fV2HpOq4sxjO3Q6cHL5ESYqs47tQQaAqyWEALw_wcB&cmadid=516586848;cmadvertiserid=10730501;cmcampaignid=26990768;cmplacementid=324286430;cmcreativeid=163722649;cmsiteid=5500011 
-https://www.youtube.com/watch?v=xQWUm_eHjGk&t=29s 
-https://www.shopify.com/tools/profit-margin-calculator 
+- [Sebrae - Como definir o preço de venda de um produto ou serviço](https://sebrae.com.br/sites/PortalSebrae/artigos/como-definir-o-preco-de-venda-de-um-produto-ou-servico,cc9836627a963410VgnVCM1000003b74010aRCRD#:~:text=O%20valor%20deve%20cobrir%20o,e%20o%20financeiro%20(interno))
+- [Vera Pereira - Como definir o preço de um serviço ou produto](https://verapereira.pt/como-definir-o-preco-de-um-servico-ou-produto/)
+- [Jumpseller - Price of My Product](https://jumpseller.pt/learn/price-of-my-product/)
+- [Shopify Blog - How to Price Your Product](https://www.shopify.com/blog/how-to-price-your-product?term=&adid=649248676748&campaignid=19724533104&utm_medium=cpc&utm_source=google&gad_source=1&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuaeIuxFXq1Fm0u9JbBrP9GfB5fV2HpOq4sxjO3Q6cHL5ESYqs47tQQaAqyWEALw_wcB&cmadid=516586848;cmadvertiserid=10730501;cmcampaignid=26990768;cmplacementid=324286430;cmcreativeid=163722649;cmsiteid=5500011)
+- [YouTube - Pricing Strategy: How to Price Your Product](https://www.youtube.com/watch?v=xQWUm_eHjGk&t=29s)
+- [Shopify Profit Margin Calculator](https://www.shopify.com/tools/profit-margin-calculator)
