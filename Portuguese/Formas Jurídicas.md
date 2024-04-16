@@ -98,10 +98,9 @@ Hoje em dia, no geral, as start-ups modernas estão a optar cada vez mais por so
 Quanto ao Estabelecimento individual de responsabilidade limitada, existe uma limitação mínima de capital social (5000€) e alguma falta de flexibilidade em termos de estrutura, ao contrário da sociedade unipessoal por cotas, que não só tem um capital social mínimo de apenas 1€ (menor barreira de entrada), como em termos legislativos é facilmente transformada numa sociedade por quotas, se aparecerem mais sócios. Estas são as principais razões para que cada vez mais as EIRL sejam substituídas por SU. 
 
  ---
-Referências: 
-
-https://rauva.com/pt/blog/guia-pratico-requisitos-legais-startups-portugal  
-https://justica.gov.pt/Servicos/Empresa-na-Hora#Quempodecriar  
-https://www.sociedadescomerciais.pt/sociedade-comercial/  
-https://eportugal.gov.pt/inicio/espaco-empresa/guia-a-a-z/cid-2-faseneg-0-escolher-a-forma-juridica-da-empresa  
-https://www.youtube.com/watch?v=JQ_HRKYbvbM&t=190s 
+Referências:
+- [Guia Prático: Requisitos Legais para Startups em Portugal](https://rauva.com/pt/blog/guia-pratico-requisitos-legais-startups-portugal)
+- [Empresa na Hora - Ministério da Justiça](https://justica.gov.pt/Servicos/Empresa-na-Hora#Quempodecriar)
+- [SociedadesComerciais.pt - Sociedade Comercial](https://www.sociedadescomerciais.pt/sociedade-comercial/)
+- [Portal ePortugal - Escolher a forma jurídica da empresa](https://eportugal.gov.pt/inicio/espaco-empresa/guia-a-a-z/cid-2-faseneg-0-escolher-a-forma-juridica-da-empresa)
+- [YouTube - Guia do Empreendedor: Tipos de Empresas (Minuto Legal)](https://www.youtube.com/watch?v=JQ_HRKYbvbM&t=190s)
