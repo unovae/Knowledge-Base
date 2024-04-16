@@ -102,9 +102,8 @@ As for the Sole Proprietorship with Limited Liability, there is a minimum capita
 ---
 
 References: 
-
-https://rauva.com/pt/blog/guia-pratico-requisitos-legais-startups-portugal  
-https://justica.gov.pt/Servicos/Empresa-na-Hora#Quempodecriar  
-https://www.sociedadescomerciais.pt/sociedade-comercial/  
-https://eportugal.gov.pt/inicio/espaco-empresa/guia-a-a-z/cid-2-faseneg-0-escolher-a-forma-juridica-da-empresa  
-https://www.youtube.com/watch?v=JQ_HRKYbvbM&t=190s 
+- [Guia Prático: Requisitos Legais para Startups em Portugal](https://rauva.com/pt/blog/guia-pratico-requisitos-legais-startups-portugal)
+- [Empresa na Hora - Ministério da Justiça](https://justica.gov.pt/Servicos/Empresa-na-Hora#Quempodecriar)
+- [SociedadesComerciais.pt - Sociedade Comercial](https://www.sociedadescomerciais.pt/sociedade-comercial/)
+- [Portal ePortugal - Escolher a forma jurídica da empresa](https://eportugal.gov.pt/inicio/espaco-empresa/guia-a-a-z/cid-2-faseneg-0-escolher-a-forma-juridica-da-empresa)
+- [YouTube - Guia do Empreendedor: Tipos de Empresas (Minuto Legal)](https://www.youtube.com/watch?v=JQ_HRKYbvbM&t=190s)
