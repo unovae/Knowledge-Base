@@ -51,7 +51,7 @@ NOTA: Se o preço praticado pela concorrência for menor que aquilo exigido pelo
 
  
 
-### Estratégias de precificação: 
+## Estratégias de precificação: 
 
 Agora já conhecendo os custos do negócio, o mercado e os objetivos da empresa, resta apenas escolher a estratégia a adotar na definição do preço: 
 
