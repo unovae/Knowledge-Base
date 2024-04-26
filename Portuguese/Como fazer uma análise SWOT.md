@@ -5,8 +5,9 @@ SWOT é um acrónimo que significa Strengths, Weaknesses, Opportunities and Thre
 3. Organizar a informação numa matriz de SWOT. 
 4. Analisar e definir prioridades.
 5. Desenvolver estratégias. 
-6. Implementação, monitorização e atualização. 
-&nbsp; 
+6. Implementação, monitorização e atualização.
+
+&nbsp;  
 
 ## Definir o objetivo. 
 Antes de iniciar a análise de SWOT é necessário ter um objetivo claro e específico. A mesma pode ser precisa em diversas situações: 
