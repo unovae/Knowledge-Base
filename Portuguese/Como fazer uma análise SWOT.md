@@ -54,9 +54,9 @@ Implemente as estratégias definidas e monitorize o seu progresso. Retifique fre
 &nbsp; 
 
 # Exemplo real de análise SWOT: Subway.
-**Forças:** A Subway possui o maior número de pontos de venda em comparação com seus concorrentes. Atualmente, possui mais de 37.000 pontos de venda em todo o mundo (abaixo dos mais de 42.000 pontos de venda em 2020). Também está em terceiro lugar em termos de fidelidade à marca e é considerado mais saudável do que o McDonald's e o KFC. 
-**Fraquezas:** Apesar de ter o maior número de pontos de venda, a Subway não é o fast food mais popular. Está em segundo lugar, atrás do McDonald's. Como segue um modelo de franquia, o serviço é altamente variável e, portanto, a satisfação do cliente flutua. Os temas dos pontos de venda da Subway são antigos e fora de moda e precisam ser atualizados. 
-**Oportunidades:** À medida que mais pessoas procuram opções mais saudáveis, a Subway pode aproveitar isso e oferecer alimentos mais saudáveis. Também pode adicionar mais variedade de alimentos em vez de se limitar aos seus subs icônicos. Precisa tambem de melhorar os serviços de entrega em domicílio e drive-through. 
+**Forças:** A Subway possui o maior número de pontos de venda em comparação com seus concorrentes. Atualmente, possui mais de 37.000 pontos de venda em todo o mundo (abaixo dos mais de 42.000 pontos de venda em 2020). Também está em terceiro lugar em termos de fidelidade à marca e é considerado mais saudável do que o McDonald's e o KFC.   
+**Fraquezas:** Apesar de ter o maior número de pontos de venda, a Subway não é o fast food mais popular. Está em segundo lugar, atrás do McDonald's. Como segue um modelo de franquia, o serviço é altamente variável e, portanto, a satisfação do cliente flutua. Os temas dos pontos de venda da Subway são antigos e fora de moda e precisam ser atualizados.   
+**Oportunidades:** À medida que mais pessoas procuram opções mais saudáveis, a Subway pode aproveitar isso e oferecer alimentos mais saudáveis. Também pode adicionar mais variedade de alimentos em vez de se limitar aos seus subs icônicos. Precisa tambem de melhorar os serviços de entrega em domicílio e drive-through.   
 **Ameaças:** A Subway , além dos seus principais concorrentes, também enfrenta concorrência de novos restaurantes com modelos de negócios semelhantes. Houve vários processos contra a Subway por não servir alimentos frescos e saudáveis, o que pode afetar de forma tremenda a imagem da marca. 
 
 Referencia: upmetrics top 5 swot analysis 
