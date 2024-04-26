@@ -6,6 +6,7 @@ SWOT é um acrónimo que significa Strengths, Weaknesses, Opportunities and Thre
 4. Analisar e definir prioridades.
 5. Desenvolver estratégias. 
 6. Implementação, monitorização e atualização. 
+&nbsp; 
 
 ## Definir o objetivo. 
 Antes de iniciar a análise de SWOT é necessário ter um objetivo claro e específico. A mesma pode ser precisa em diversas situações: 
@@ -58,6 +59,8 @@ Implemente as estratégias definidas e monitorize o seu progresso. Retifique fre
 **Ameaças:** A Subway , além dos seus principais concorrentes, também enfrenta concorrência de novos restaurantes com modelos de negócios semelhantes. Houve vários processos contra a Subway por não servir alimentos frescos e saudáveis, o que pode afetar de forma tremenda a imagem da marca. 
 
 Referencia: upmetrics top 5 swot analysis 
+
+&nbsp; 
 
 ## Conclusão. 
 A análise SWOT é uma estrutura eficaz que pode ajudá-lo a tomar melhores decisões e formular melhor estratégias. Deve adaptá-la cautelosamente aos seus objetivos específicos. Mas, o mais importante, é que deve considerar que não é uma ferramenta que garante sucesso imediato ou certo. 
