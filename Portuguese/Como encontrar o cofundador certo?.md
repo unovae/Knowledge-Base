@@ -57,7 +57,8 @@ Posto isto, é muito importante assegurar uma relação saudável e duradoura en
 - **Amizade:** desenvolver (ou fortalecer) uma amizade com o cofundador, conhecê-lo bastante bem e apoiarem-se mutuamente quando necessário;
 - **Distribuição do poder e das funções:** esta distribuição deve ser feita de forma justa para que toda a equipa se sinta valorizada pelo trabalho que desempenha. Cada indivíduo deve estar bem ciente da sua função e posição na empresa (ex: quem é o CEO?), para evitar conflitos e mal-entendidos mais tarde. O mesmo se aplica à distribuição da propriedade da empresa, que deve ser feita com base em critérios sobre os quais ambas as partes envolvidas estejam de acordo.
 
-## Referências
+---
+Referências
 
 - [Tory Burch Foundation](https://www.toryburchfoundation.org/resources/build-my-team/how-to-find-co-founder-relationships/)
 - [Forbes](https://www.forbes.com/sites/theyec/2022/09/07/nine-tips-for-achieving-and-maintaining-a-healthy-co-founder-relationship/?sh=4732097e275f)
