@@ -35,15 +35,15 @@ Com base neste espectro de pessoas e naquilo que procura num cofundador, elabore
 
 Muitas empresas conhecidas mundialmente, com um sucesso imenso, tiveram por base uma equipa de cofundadores que se conheceram de uma das formas referidas acima, por exemplo:
 
-**Colegas da faculdade:**
+- **Colegas da faculdade:**
   - Larry Page e Sergey Brin (fundadores da Google) conheceram-se na faculdade de Standford onde ambos estudavam. Acabaram por trabalhar juntos num projeto de nome “The anatomy of a large-scale hypertextual web search engine” que serviu de base para o motor de busca Google. 
   - Também tiveram origem em parcerias entre colegas de ensino superior: a HP (Bill Hewlett e Dave Packard) e o Facebook (Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Mokovitz e Chris Hughes), entre outros.
 
-**Colegas de trabalho:**
+- **Colegas de trabalho:**
   - Chad Hurley, Steve Chen e Jawed Karim, conheceram-se quando trabalhavam na Paypal, de onde saíram para criarem um negócio próprio. Desta parceria surgiu o Youtube, a maior plataforma de vídeos do mundo.
   - Também se conheceram no mercado de trabalho: Gordon Moore e Bob Noyce (fundadores da Intel, ex-funcionários do Shockley Semiconductor Laboratory), Jan Koum e Brian Acton (fundadores do WhatsApp, ex-funcionários da Yahoo), entre outros.
 
-**Clubes e interesses comuns:**
+- **Clubes e interesses comuns:**
   - Phil Knight era atleta da equipa de atletismo da universidade de Oregon, cujo treinador era Bill Bowerman. Foi com base no mútuo interesse em sapatos de corrida que surgiu a empresa Blue Ribbon Sports, que mais tarde se viria a chamar Nike.
   - Apesar de Steve Jobs e Steve Wozniak (dois dos três fundadores da Apple) se terem conhecido quando o primeiro estagiou na HP onde Wozniak trabalhava, foi um forte interesse em comum por eletrónica, que mais potenciou esta parceria. Estes participavam numa organização local chamada “Homebrew Computer Club”, onde o primeiro protótipo da empresa “Apple I” foi demonstrado.
 
