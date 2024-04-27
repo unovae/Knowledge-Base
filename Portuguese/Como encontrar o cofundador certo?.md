@@ -23,8 +23,11 @@ Quanto ao que se procura no cofundador certo para a sua start-up, é preciso ter
 
 Onde encontrar os possíveis cofundadores que tenham as características apresentadas no ponto anterior?
 
-- **Comece pelas pessoas que já conhece:** Pense em todas as pessoas com quem gostou de trabalhar e destaque aqueles com quem mais se identificou, e que vão ao encontro das competências referidas acima; Tenha em conta também as pessoas com quem fez projetos a nível académico, que numa fase inicial podem ser uma bela simulação para entender a ética de trabalho da pessoa em causa.
-- **Conheça pessoas que partilhem os seus interesses e forma de pensar:** Participe, por exemplo, em atividades de voluntariado, competições, workshops e outros eventos em grupo, onde muito provavelmente encontrará pessoas com interesses semelhantes e, quem sabe, os mesmos objetivos e ambições.
+- **Comece pelas pessoas que já conhece:**
+  - Pense em todas as pessoas com quem gostou de trabalhar e destaque aqueles com quem mais se identificou, e que vão ao encontro das competências referidas acima;
+  - Tenha em conta também as pessoas com quem fez projetos a nível académico, que numa fase inicial podem ser uma bela simulação para entender a ética de trabalho da pessoa em causa.
+- **Conheça pessoas que partilhem os seus interesses e forma de pensar:**
+  - Participe, por exemplo, em atividades de voluntariado, competições, workshops e outros eventos em grupo, onde muito provavelmente encontrará pessoas com interesses semelhantes e, quem sabe, os mesmos objetivos e ambições.
 
 Com base neste espectro de pessoas e naquilo que procura num cofundador, elabore uma lista ordenada de candidatos a contactar e apresente-lhes a sua proposta.
 
@@ -33,16 +36,16 @@ Com base neste espectro de pessoas e naquilo que procura num cofundador, elabore
 Muitas empresas conhecidas mundialmente, com um sucesso imenso, tiveram por base uma equipa de cofundadores que se conheceram de uma das formas referidas acima, por exemplo:
 
 **Colegas da faculdade:**
-Larry Page e Sergey Brin (fundadores da Google) conheceram-se na faculdade de Standford onde ambos estudavam. Acabaram por trabalhar juntos num projeto de nome “The anatomy of a large-scale hypertextual web search engine” que serviu de base para o motor de busca Google. 
-Também tiveram origem em parcerias entre colegas de ensino superior: a HP (Bill Hewlett e Dave Packard) e o Facebook (Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Mokovitz e Chris Hughes), entre outros.
+  - Larry Page e Sergey Brin (fundadores da Google) conheceram-se na faculdade de Standford onde ambos estudavam. Acabaram por trabalhar juntos num projeto de nome “The anatomy of a large-scale hypertextual web search engine” que serviu de base para o motor de busca Google. 
+  - Também tiveram origem em parcerias entre colegas de ensino superior: a HP (Bill Hewlett e Dave Packard) e o Facebook (Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Mokovitz e Chris Hughes), entre outros.
 
 **Colegas de trabalho:**
-Chad Hurley, Steve Chen e Jawed Karim, conheceram-se quando trabalhavam na Paypal, de onde saíram para criarem um negócio próprio. Desta parceria surgiu o Youtube, a maior plataforma de vídeos do mundo.
-Também se conheceram no mercado de trabalho: Gordon Moore e Bob Noyce (fundadores da Intel, ex-funcionários do Shockley Semiconductor Laboratory), Jan Koum e Brian Acton (fundadores do WhatsApp, ex-funcionários da Yahoo), entre outros.
+  - Chad Hurley, Steve Chen e Jawed Karim, conheceram-se quando trabalhavam na Paypal, de onde saíram para criarem um negócio próprio. Desta parceria surgiu o Youtube, a maior plataforma de vídeos do mundo.
+  - Também se conheceram no mercado de trabalho: Gordon Moore e Bob Noyce (fundadores da Intel, ex-funcionários do Shockley Semiconductor Laboratory), Jan Koum e Brian Acton (fundadores do WhatsApp, ex-funcionários da Yahoo), entre outros.
 
 **Clubes e interesses comuns:**
-Phil Knight era atleta da equipa de atletismo da universidade de Oregon, cujo treinador era Bill Bowerman. Foi com base no mútuo interesse em sapatos de corrida que surgiu a empresa Blue Ribbon Sports, que mais tarde se viria a chamar Nike.
-Apesar de Steve Jobs e Steve Wozniak (dois dos três fundadores da Apple) se terem conhecido quando o primeiro estagiou na HP onde Wozniak trabalhava, foi um forte interesse em comum por eletrónica, que mais potenciou esta parceria. Estes participavam numa organização local chamada “Homebrew Computer Club”, onde o primeiro protótipo da empresa “Apple I” foi demonstrado.
+  - Phil Knight era atleta da equipa de atletismo da universidade de Oregon, cujo treinador era Bill Bowerman. Foi com base no mútuo interesse em sapatos de corrida que surgiu a empresa Blue Ribbon Sports, que mais tarde se viria a chamar Nike.
+  - Apesar de Steve Jobs e Steve Wozniak (dois dos três fundadores da Apple) se terem conhecido quando o primeiro estagiou na HP onde Wozniak trabalhava, foi um forte interesse em comum por eletrónica, que mais potenciou esta parceria. Estes participavam numa organização local chamada “Homebrew Computer Club”, onde o primeiro protótipo da empresa “Apple I” foi demonstrado.
 
 ## Como manter uma relação saudável e duradoura?
 
