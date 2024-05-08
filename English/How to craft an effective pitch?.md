@@ -25,7 +25,7 @@ To deliver a compelling pitch, one must possess several characteristics that per
    - funding requirements
 
 5. **Show the roadmap.**
-   The most important reason why investors are there is to know how they will eventually realize their return on investment. Therefore, explain the exit strategy and the available options, such as acquisitions and mergers or initial public offering (IPO). Present the roadmap that shows the path to profitability and should captivate the investor.
+   The most important reason why investors are there, is to know how they will eventually realize their return on investment. Therefore, explain the exit strategy and the available options, such as acquisitions and mergers or initial public offering (IPO). Present the roadmap that shows the path to profitability and it should captivate the investor.
 
 ## Tailoring your pitch for success.
  Pitches come in various forms depending on the context and time frames. Here are the three most common ones:
