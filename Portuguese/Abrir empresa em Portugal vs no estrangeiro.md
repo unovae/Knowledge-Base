@@ -78,25 +78,7 @@ Os 3 países da OCDE com menor imposto sobre as empresas são Hungria (9%), Irla
 
 A Tax Foundation realçou ainda a ineficiência do sistema de IVA com taxa normal, intermédia e reduzida, de Portugal, classificando-o em 26º de 38. Os países mais bem classificados nesta categoria apresentam uma taxa de IVA fixa e reduzida.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
 
 Foi classificado com a **maior competitividade fiscal** a Estónia, que apresenta um imposto sobre o rendimento das empresas de 20% apenas sobre os lucros distribuídos (não se aplica a resultados retidos ou reinvestidos) e uma taxa única de imposto sobre o rendimento individual de 20% também. 
 
