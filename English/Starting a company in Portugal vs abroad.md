@@ -78,7 +78,7 @@ The 3 OECD countries with the lowest corporate income tax rates are Hungary (9%)
 
 The Tax Foundation also highlighted the inefficiency of Portugal's VAT system with normal, intermediate, and reduced rates, ranking it 26th out of 38. The countries with the highest rankings in this category have a fixed reduced VAT rate.
 
-Estonia was ranked as having the highest tax competitiveness, with a corporate income tax rate of only 20% on distributed profits (not applicable to retained or reinvested earnings) and a flat individual income tax rate of 20% as well.
+Estonia was ranked as having the **highest tax competitiveness**, with a corporate income tax rate of only 20% on distributed profits (not applicable to retained or reinvested earnings) and a flat individual income tax rate of 20% as well.
 
 The country in second place was Latvia, which has a corporate tax regime similar to Estonia's.
 
