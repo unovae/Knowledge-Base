@@ -1,6 +1,6 @@
 # Starting a company in Portugal vs abroad
 
-In this documenta, we will analyze Portugal from an entrepreneurial perspective, taking into account the burdens on entrepreneurs, bureaucratic processes, and the supports and incentives available in this country.
+In this document, we will analyze Portugal from an entrepreneurial perspective, taking into account the burdens on entrepreneurs, bureaucratic processes, and the supports and incentives available in this country.
 
 Furthermore, we will compare Portugal with other countries in terms of, for example, tax burden and worker qualifications. These metrics will be useful in understanding whether this country is attractive for entrepreneurship or not.
 
@@ -26,11 +26,11 @@ All companies in Portugal pay at least two taxes:
 
 - **VAT - Value Added Tax (IVA in Portuguese):** is the tax applied to sales or services rendered. It is paid by the consumer, and a balance is made between the VAT paid compared to the VAT received, to calculate whether it is necessary to deliver or receive the difference from the government. In mainland Portugal: normal VAT rate = 23%; intermediate VAT rate = 13%; reduced VAT rate = 6% (for information on what each rate applies to: [VAT rates](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/pages/iva18.aspx), [list 1](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/c-iva-listas.aspx), [list 2](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/c-iva-listas.aspx#L2))
 
-  There are more taxes that can become burdens for the company, such as IMI (“Imposto Municipal sobre Imóveis” - Municipal Property Tax) and IUC (“Imposto Único de Circulação” - Vehicle Circulation tax) in case of owning a property or a company vehicle, respectively.
+There are more taxes that can become burdens for the company, such as IMI (“Imposto Municipal sobre Imóveis” - Municipal Property Tax) and IUC (“Imposto Único de Circulação” - Vehicle Circulation tax) in case of owning a property or a company vehicle, respectively.
 
-  It's important to also consider the taxation on the distribution of company profits to partners/shareholders, which has a rate of 28%.
+It's important to also consider the taxation on the distribution of company profits to partners/shareholders, which has a rate of 28%.
 
-  Despite not being a tax, Social Security contributions are another expense for companies. The contribution rate has a value of 34.75% of each worker's gross salary, with the company paying 23.75% of it, and the workers responsible for the remaining 11%.
+Despite not being a tax, Social Security contributions are another expense for companies. The contribution rate has a value of 34.75% of each worker's gross salary, with the company paying 23.75% of it, and the workers responsible for the remaining 11%.
 
 #### Benefits and incentives to starting a company in Portugal:
 
@@ -82,7 +82,7 @@ Estonia was ranked as having the highest tax competitiveness, with a corporate i
 
 The country in second place was Latvia, which has a corporate tax regime similar to Estonia's.
 
-#### Labor force qualification:
+### Labor force qualification:
 
 A metric typically associated with workforce qualification is the level of labor productivity. According to data from the European Union statistics office in 2022, once again, Portugal finds itself at the bottom of Europe. It ranks as the third least productive country (72.1% productivity per worker), only ahead of Slovakia and Greece, with 28% less than the average of Eurozone countries.
 
