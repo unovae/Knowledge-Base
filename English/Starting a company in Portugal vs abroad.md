@@ -118,4 +118,3 @@ References:
 - [IRC Code - Portal das Finanças](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc87a.aspx)
 - [Explanatory video about accounting result](https://www.youtube.com/watch?v=WgZGfsRFzZA)
 - [Information about accounting result](https://blog.certform.pt/2019/11/dica-certform-resultado-contabilistico.html#:~:text=O%20resultado%20antes%20de%20impostos,chamado%20resultado%20antes%20de%20impostos.)
-resultado-contabilistico.html#:~:text=O%20resultado%20antes%20de%20impostos,chamado%20resultado%20antes%20de%20impostos.)
