@@ -78,13 +78,27 @@ Os 3 países da OCDE com menor imposto sobre as empresas são Hungria (9%), Irla
 
 A Tax Foundation realçou ainda a ineficiência do sistema de IVA com taxa normal, intermédia e reduzida, de Portugal, classificando-o em 26º de 38. Os países mais bem classificados nesta categoria apresentam uma taxa de IVA fixa e reduzida.
 
+
+
+Foi classificado com a **maior competitividade fiscal** a Estónia, que apresenta um imposto sobre o rendimento das empresas de 20% apenas sobre os lucros distribuídos (não se aplica a resultados retidos ou reinvestidos) e uma taxa única de imposto sobre o rendimento individual de 20% também. 
+
+O país em segundo classificado foi a Letónia, que apresenta um regime fiscal para as empresas semelhante ao da Estónia. 
+
 ### Qualificação da mão de obra:
 
-Uma métrica que por norma está associada à qualificação da mão de obra é o nível de produtividade no trabalho. Segundo dados do gabinete de estatística da União Europeia de 2022, mais uma vez, Portugal encontra-se na cauda da Europa. É o terceiro país menos produtivo (72,1% de produtividade por trabalhador), apenas à frente da Eslováquia e da Grécia, com menos 28% que a média dos países da zona Euro.
+Uma métrica que por norma está associada à qualificação da mão de obra é o nível de produtividade no trabalho. Segundo dados do gabinete de estatística da União Europeia de 2022, mais uma vez, Portugal encontra-se na cauda da Europa. É o terceiro país menos produtivo (72,1% de produtividade por trabalhador), apenas à frente da Eslováquia e da Grécia, com menos 28% que a média dos países da zona Euro. 
+
+Os três países da zona Euro com melhores níveis de produtividade no trabalho foram a Irlanda, o Luxemburgo e a Bélgica. 
+
+Estes dados vão ao encontro da dificuldade que Portugal tem de reter a mão de obra qualificada que forma, e que vai perdendo para o estrangeiro, que a remunera melhor e a potencia devidamente. 
 
 ### Custo de vida:
 
-Segundo o indicador de custo de vida por país do website Numbeo, entre os países europeus, Portugal apresenta o 29º custo de vida mais alto. Isto coloca Portugal na metade inferior da Europa, o que nos permite concluir que o custo de vida no país é relativamente baixo.
+Segundo o indicador de custo de vida por país do website Numbeo, entre os países europeus, Portugal apresenta o 29º custo de vida mais alto. Isto coloca Portugal na metade inferior da Europa, o que nos permite concluir que o custo de vida no país é relativamente baixo. 
+
+Isto pode ser bastante positivo para o empreendedor pois significa custos operacionais mais baixos, menos pressão financeira e geralmente mão de obra mais acessível. 
+
+Os três países europeus com o custo de vida mais elevado são a Suíça, a Islândia e a Noruega. No sentido inverso, estão a Bielorrússia, Ucrânia e a Rússia que apresentam o custo de vida mais baixo da europa. 
 
 ## Conclusão
 
