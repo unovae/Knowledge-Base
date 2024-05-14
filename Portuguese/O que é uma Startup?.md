@@ -5,15 +5,18 @@ Por exemplo, abrir uma loja de roupas não é uma startup porque é um modelo de
 
 ## Estatuto Startup e Scaleup 
 A Lei n.º 21/2023, de 25 de maio de 2023, definiu os conceitos legais de Startup e Scale up e estabeleceu o regime de reconhecimento do seu estatuto. Este regime é favorável às empresas que o obtém visto ter associados benefícios fiscais.   
+&nbsp;  
 **Requisitos para reconhecimento do estatuto de Startup:**
 - Ter sede ou representação permanente em Portugal, ou pelo menos 25 trabalhadores em Portugal; 
 - Ter menos de 10 anos; 
 - Ter menos de 250 colaboradores; 
 - Ter menos de 50 milhões de faturação; 
-- Não resultar da transformação ou cisão de uma grande empresa e não ter no seu capital qualquer participação maioritária de uma grande empresa;  
+- Não resultar da transformação ou cisão de uma grande empresa e não ter no seu capital qualquer participação maioritária de uma grande empresa;
+
 **Requisitos para reconhecimento do estatuto de Scaleup:**
 - Ter mais de 10 anos; 
-- Ter mais de 250 colaboradores ou 50 milhões de faturação  
+- Ter mais de 250 colaboradores ou 50 milhões de faturação
+
 **Ambos os estatutos requerem cumprir pelo menos uma das seguintes condições:**
 - Ser uma empresa inovadora com um elevado potencial de crescimento, com um modelo de negócio, produtos ou serviços inovadores, e que tenha sido reconhecida idoneidade pela ANI – Agência Nacional de Inovação, S. A., na prática de atividades de investigação e desenvolvimento ou certificação do processo de reconhecimento de empresas do setor da tecnologia; 
 - Ter concluído, pelo menos, uma ronda de financiamento de capital de risco; 
