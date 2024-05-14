@@ -7,16 +7,16 @@ Primeiro e mais importante, é preciso ter um entendimento profundo da sua ideia
 Outro aspecto vital de uma grande apresentação é entender para quem está a falar. Compreender as suas motivações, background e até mesmo a linguagem técnica frequentemente utilizada no ecossistema. Isto permite abordá-los estrategicamente, priorizando os aspectos que ressoam com eles.  
 
 ## Passos para criar um pitch efetivo
-1. **Conheçe a tua audiência**
+1. **Conheçe a tua audiência**  
     Nunca caias numa situação em que não conheças a especialização do investidor. Realiza uma pesquisa detalhada sobre potenciais investidores, considerando as suas áreas de interesse, as séries em que investem, o seu histórico e o seu background. Encontrar o investidor certo pode ajudar a tua startup, uma vez que a visão será partilhada e os objetivos e motivações estarão alinhados, evitando discordâncias na gestão. Além disso, a experiência deles e as suas conexões são um ativo realmente valioso para a empresa e podem ser um fator-chave para o teu sucesso.  
    
-2. **Vende as tuas capacidades, não só a ideia**
+2. **Vende as tuas capacidades, não só a ideia**  
    Embora a ideia seja significativa, a realidade é que o sucesso depende principalmente da execução. Apresentar as tuas competências, o background da tua equipa e os seus registos, e a tua capacidade de trabalhar em conjunto como uma equipa é crucial para construir a confiança necessária para investir. Como, famosamente, disse Zig Ziglar, **_"Não constróis um negócio, constróis pessoas, e depois as pessoas constroem o negócio."_**  
 
-3. **Conta uma história**
+3. **Conta uma história**  
    Cria uma narrativa que explique o problema que o teu negócio aborda e como a tua solução o resolve da forma mais excelente e única possível. Utiliza cenários da vida real para ilustrar o impacto da tua solução nos clientes. Envolva a audiência retratando emocionalmente a jornada da startup de uma forma relacionável e inspiradora.  
 
-4. **Cobre os detalhes**
+4. **Cobre os detalhes**  
    Enquanto a história eleva o interesse dos investidores, certifica-te de aprofundar nos pormenores do teu negócio. O discurso deve conter todos os elementos-chave do plano de negócios, tais como:
    - proposta de valor
    - oportunidade de mercado
@@ -25,7 +25,7 @@ Outro aspecto vital de uma grande apresentação é entender para quem está a f
    - projeções financeiras
    - requisitos de financiamento  
 
-5. **Mostra o roadmap**
+5. **Mostra o roadmap**  
    O motivo mais importante pelo qual os investidores estão presentes é para saber como eventualmente realizarão o retorno sobre o investimento. Portanto, explica a estratégia de saída e as opções disponíveis, como aquisições e fusões ou oferta pública inicial (IPO). Apresenta o plano de trajetória que mostra o caminho para a lucratividade e que deve cativar o investidor.   
 
 ## Ajusta o teu pitch para o sucesso
