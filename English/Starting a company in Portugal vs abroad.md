@@ -37,7 +37,7 @@ Despite not being a tax, Social Security contributions are another expense for c
 In Portugal, with the new features brought by the 2024 State Budget, there are incentives and benefits to promote entrepreneurship and innovation, including:
 
 - Small and Medium Enterprises (SMEs) benefit from a corporate income tax rate of 17%, but only on the first 25,000 euros of taxable profit (profit after deducting tax benefits and losses).
-- Entities obtaining startup status will have a reduction in the CIT rate, which will be 12.5% for the first 50,000 euros of taxable income (For information on startup status, please read our document "What is a startup?").
+- Entities obtaining startup status will have a reduction in the CIT rate, which will be 12.5% for the first 50,000 euros of taxable income (For information on startup status, please read our document ["What is a startup?"](https://github.com/unovae/Knowledge-Base/blob/main/English/What%20is%20a%20Startup%3F.md)).
 - Eligible investment costs for tax benefit (incentives to invest and spend profits of the company, with the benefit of reducing its tax burden).
 - VAT exemption for the first 6 months of activity, only for a business volume of less than 10,000 euros.
 - Deductible VAT on the purchase of an electric car with an acquisition cost of less than 62,500 euros.
