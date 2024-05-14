@@ -37,7 +37,7 @@ Apesar de não serem um imposto, as contribuições à Segurança Social são ma
 Em Portugal, com as novidades trazidas pelo Orçamento de Estado 2024, existem benefícios fiscais para fomentar o empreendedorismo e a inovação, entre os quais:
 
 - As PME (Pequenas e Médias Empresas) beneficiam de uma taxa de IRC de 17%, mas apenas sobre os primeiros 25 mil euros de matéria coletável (lucro após deduzidos os benefícios e prejuízos fiscais).
-- As entidades que obterem o estatuto de startup, terão uma redução na taxa de IRC, que terá o valor de 12,5% para os primeiros 50 mil euros de matéria coletável (Para informações sobre o estatuto de start-up, leia o nosso documento “O que é uma start-up?”).
+- As entidades que obterem o estatuto de startup, terão uma redução na taxa de IRC, que terá o valor de 12,5% para os primeiros 50 mil euros de matéria coletável (Para informações sobre o estatuto de start-up, leia o nosso documento [“O que é uma start-up?”](https://github.com/unovae/Knowledge-Base/blob/main/Portuguese/O%20que%20é%20uma%20Startup%3F.md)).
 - Custos de investimento elegíveis para benefício fiscal (incentivo ao investimento dos lucros da empresa, com o benefício de reduzir a carga tributária desta).
 - Isenção do IVA nos primeiros 6 meses de atividade, apenas para um volume de negócios inferior a 10 mil euros.
 - IVA dedutível na compra de um carro elétrico com custo de aquisição inferior a 62500€.
