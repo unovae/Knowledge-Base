@@ -5,7 +5,7 @@ For example, opening a clothing store does not qualify as a startup because it i
 
 ## Recognition of Startup and Scale Up Status 
 The Law no. 21/2023, of May 25th, has defined the legal concepts of startup and scale up and has established the regime of recognizing such status. This status has fiscal benefits associated with it, so it is of interest to be recognized with it.   
-&nbsp; 
+&nbsp;  
 **Requirements for recognition of startup status:**
 - Be youger than 10 years old; 
 - Have fewer than 250 employees; 
