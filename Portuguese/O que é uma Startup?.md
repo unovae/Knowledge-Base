@@ -17,7 +17,7 @@ A Lei n.º 21/2023, de 25 de maio de 2023, definiu os conceitos legais de Startu
 - Ter mais de 10 anos; 
 - Ter mais de 250 colaboradores ou 50 milhões de faturação
 
-**Ambos os estatutos requerem cumprir pelo menos uma das seguintes condições:**
+**Ambos os estatutos requerem pelo menos uma das seguintes condições:**
 - Ser uma empresa inovadora com um elevado potencial de crescimento, com um modelo de negócio, produtos ou serviços inovadores, e que tenha sido reconhecida idoneidade pela ANI – Agência Nacional de Inovação, S. A., na prática de atividades de investigação e desenvolvimento ou certificação do processo de reconhecimento de empresas do setor da tecnologia; 
 - Ter concluído, pelo menos, uma ronda de financiamento de capital de risco; 
 - Ter recebido investimento do Banco Português de Fomento, S. A., ou de fundos geridos por este, ou por empresas suas participadas, ou de um dos seus instrumentos de capital ou quase capital 
