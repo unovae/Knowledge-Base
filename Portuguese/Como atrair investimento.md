@@ -47,5 +47,7 @@ Apresentar um MVP funcional (produto mínimo viável) ou um protótipo, aumenta 
 ## Elabore um pitch cativante 
 Prepare um pitch que seja conciso, informativo e atrativo. Mantenha os investidores envolvidos usando, por exemplo, elementos interativos e mencione todos os elementos essenciais do plano de negócios. Adapte o discurso de acordo com os interesses dos investidores. 
 
+&nbsp;  
+
 ## Conclusão  
 Atrair investidores é um processo complicado que pode ser concluído com planeamento, preparação e execução. Seguindo as dicas acima, sendo transparente e honesto não apenas com os investidores, mas, mais importante ainda, com a sua equipa e consigo próprio, as chances de garantir os investimentos certos podem ser significativamente aumentadas. Por fim, dar o máximo de si, acreditar em si e persistir, são a chave. Como disse famosamente Steve Jobs: "Estou convencido de que cerca de metade do que separa os empreendedores bem sucedidos dos não sucedidos é pura perseverança". 
