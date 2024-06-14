@@ -1,6 +1,6 @@
 # How to do a Market Research? 
 Every new product or solution comes with the same pressing question: “Will someone buy it?”.  
-To solve that question, it is crucial to understand how potential customers will react to your product. This leads us to conduct market research.  
+To solve that question, it is crucial to understand how potential customers will react to your product. This leads us to conduct market research.  &nbsp;  
 
 ## What is market research? 
 Market research is a fundamental process that examines the consumer behaviour and trends in the market to help businesses develop strategies and come up with new products and services. By collecting and analysing the data, market research helps to understand target market, the competitors and the viability of the solutions, which leads to informed decision making. Methods such as surveys, focus groups and data analysis are amongst the most common techniques used for market research.  
@@ -18,7 +18,7 @@ Market research is critically important for businesses as it provides essential 
 # How to actually conduct a market research: 
 Ok now that we’ve understood the importance of conducting market research, let’s reflect on how to do it. 
 
-#### Firstly, let’s define an objective: 
+### Firstly, let’s define an objective: 
 Are you trying to find if there are any products similar to yours in the market?    
 Are you looking to check if your idea will be successful in a target audience?  
 Are you trying to understand customers’ experience with products like the one you are projecting?  
@@ -29,7 +29,7 @@ Well market research is divided in two main families, in terms of data collectio
 - **Primary market research:** This is data collected by the entrepreneurs themselves, or by a market research personalized service. The importance of this approach relies on the direct contact with the possible customers it involves.  
 - **Secondary market research:** This approach relies on data publicly available. This means data collected by third parties, which can be found mostly on search engines and social networks, but also in many other types of information sources. 
 
-#### Diving into Secondary market research: 
+### Diving into Secondary market research: 
 Let’s start by going into more detail about secondary market research, which is more entrepreneur friendly in terms of cost and time consumption required. This is the recommended approach in an initial phase of a market research and can then serve as the foundational knowledge to guide the primary market research.  
 There are various ways of gathering valuable third-party information for our market research. Let’s explore some of the most common ones: 
 - **Social Media:** The internet is actually the biggest provider of information sources to support a secondary market analysis. In that sense, social media can be a very valuable asset. This is for 3 main reasons:  
@@ -42,7 +42,7 @@ There are various ways of gathering valuable third-party information for our mar
 
 After collecting and analyzing data from the sources stated above, you’ll be able to get a general understanding if your product/idea already exists or if it has potential to succeed in the market. Now, you either need to restart the ideation process (because you’ve noticed your idea isn’t worth it), or you are ready to embark on the journey of a primary market research.  
 
-#### Diving into Primary market research: 
+### Diving into Primary market research: 
 Let's delve into primary market research, a crucial method for gathering new and direct insights from your target audience. This approach allows for more personalized data, addressing the specific questions the company wants answered about the market and the target audience. However, it is generally more expensive and harder to conduct, because it involves collecting first-hand information. That’s why this is normally done after going through an initial phase of secondary market research, to validate the business idea.  
 Once again, there are various ways of collecting valuable first-hand information for our market research. Let’s explore some of the most common ones: 
 - **Focus Groups:** Bringing together a sample of the target audience, representing a niche of customers, to try a product or service. The main purpose of this, is to then receive feedback from that sample of people and taking conclusions from it. This is a great way of estimating the real performance in the market, because we can see the customers’ attitude towards our product.  
@@ -71,7 +71,7 @@ This can be due to the product having a really different price range than yours,
 - **Tertiary Competitors:** Do not sell the same product but you both share the same market.  
 Here the thing to look out for is if they may start selling a similar product and then become your competitor or if they are a potential partner. 
 
-#### Step 2: Analyse your competitors 
+### Step 2: Analyse your competitors 
 After an initial analysis to categorize your competitors, you should strive to understand their positioning. Positioning is the most important thing in a business, if you can understand clearly your competitors’ position and differentiate yours from theirs you are in a great place to get ahead.  
 Here you are looking to compare and contrast your competitors in relation to you, but also between them and to determine this you should: 
 
@@ -80,7 +80,7 @@ Here you are looking to compare and contrast your competitors in relation to you
 
 Like this you can better and understand your competitors and then define how you are going to **differentiate yourself from them**. A good starting point for this is to try to get their **customers' pain points**. You can do this through their reviews and complaints or reflections. Try and analyse if you could improve the shipping, improve or add a new feature to the product, improve on overall customer experience. If you can get something here that can really differentiate them from you, you have defined a path to overcome them. 
 
-#### Step 3: Conduct a SWOT analysis 
+### Step 3: Conduct a SWOT analysis 
 Even more important than knowing your competitors is knowing how you are different from them and for this we recommend frequently doing a SWOT analysis internally. Like this you will be able to understand your strengths, weaknesses and how you will leverage your opportunities to grow your business.  
 We have a detailed guide on SWOT analysis so check it out!  
 
