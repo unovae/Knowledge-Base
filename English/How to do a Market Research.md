@@ -7,11 +7,11 @@ Market research is a fundamental process that examines the consumer behaviour an
 
 ## How important is market research? 
 Market research is critically important for businesses as it provides essential insights that form the basis of the business strategies and decision-making. No matter how strong your intuition is, you should always conduct market research to validate the problem you are solving. By understanding the consumer behaviour, companies can tailor their products to the market and consumer demands. Here are some of the reasons why market research is important: 
-- Data driven decision making: decisions that rely on factual and objective information rather than intuition or guesswork are far more effective and impactful.  
-- Risk reduction: by understanding the consumer needs and behaviour beforehand, the risk of failure can be mitigated.  
-- Competitive advantage: analysing the market/industry trends and competitor behaviour, a business can take strategic decisions to gain competitive advantage to stay ahead of the curve.  
-- Increased customer satisfaction: when products and services are aligned with customer needs, it leads to greater satisfaction rates.  
-- Optimized marketing strategies: consumer behaviour can help construct marketing strategies that resonate with the target market.  
+- **Data driven decision making:** decisions that rely on factual and objective information rather than intuition or guesswork are far more effective and impactful.  
+- **Risk reduction:** by understanding the consumer needs and behaviour beforehand, the risk of failure can be mitigated.  
+- **Competitive advantage:** analysing the market/industry trends and competitor behaviour, a business can take strategic decisions to gain competitive advantage to stay ahead of the curve.  
+- **Increased customer satisfaction:** when products and services are aligned with customer needs, it leads to greater satisfaction rates.  
+- **Optimized marketing strategies:** consumer behaviour can help construct marketing strategies that resonate with the target market.  
 
  &nbsp;  
 
@@ -82,7 +82,7 @@ Like this you can better and understand your competitors and then define how you
 
 ### Step 3: Conduct a SWOT analysis 
 Even more important than knowing your competitors is knowing how you are different from them and for this we recommend frequently doing a SWOT analysis internally. Like this you will be able to understand your strengths, weaknesses and how you will leverage your opportunities to grow your business.  
-We have a detailed guide on SWOT analysis so check it out!  
+We have a [detailed guide on SWOT analysis](https://github.com/unovae/Knowledge-Base/blob/main/English/SWOT%20Analysis%20Guide.md) so check it out!  
 
  &nbsp;  
  
@@ -104,8 +104,8 @@ By leveraging these market analysis tools, businesses can gather data, track met
 In summary, market research plays a crucial role for businesses by providing valuable insights into the competitive landscape and market trends. By using advanced market analysis tools, companies can save costs by making informed and strategic decisions. Moreover, this research enables businesses to identify growth opportunities and position themselves more effectively in the market.  
 Investing in market research not only helps mitigate risks and avoid unnecessary investments but can also significantly leverage gains by adjusting strategies according to the ever-changing needs and preferences of customers. 
 
-**“Without data, you're just another person with an opinion.”**
- W. Edwards Demming. 
+**“Without data, you're just another person with an opinion.”**  
+W. Edwards Demming. 
 
  &nbsp;  
 **References:**  
