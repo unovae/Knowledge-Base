@@ -108,7 +108,7 @@ Investing in market research not only helps mitigate risks and avoid unnecessary
  W. Edwards Demming. 
 
  &nbsp;  
-**References:**
+**References:**  
 [Investopedia guide for market research](https://www.investopedia.com/terms/m/market-research.asp)  
 [Shopify guide for market research](https://www.shopify.com/blog/what-is-market-research)  
 [25 Tools for conducting Market Research](https://blog.hubspot.com/marketing/market-research-tools-resources)  
