@@ -1,6 +1,6 @@
 # How to do a Market Research? 
 Every new product or solution comes with the same pressing question: “Will someone buy it?”.  
-To solve that question, it is crucial to understand how potential customers will react to your product. This leads us to conduct market research.  &nbsp;  
+To solve that question, it is crucial to understand how potential customers will react to your product. This leads us to conducting market research.  &nbsp;  
 
 ## What is market research? 
 Market research is a fundamental process that examines the consumer behaviour and trends in the market to help businesses develop strategies and come up with new products and services. By collecting and analysing the data, market research helps to understand target market, the competitors and the viability of the solutions, which leads to informed decision making. Methods such as surveys, focus groups and data analysis are amongst the most common techniques used for market research.  
@@ -76,9 +76,9 @@ After an initial analysis to categorize your competitors, you should strive to u
 Here you are looking to compare and contrast your competitors in relation to you, but also between them and to determine this you should: 
 
 - **Understand their messaging:** What story do they tell? What is their company description? What is their product positioning? How do they describe their unique value proposition? What are the company values?  
-- **Define their Strategy:** What is their marketing strategy? Do they have an email newsletter? Do they promote on social media? They create marketing content? How is their website? What type of customer are they trying to reach? How do they try and reach their customers?  
+- **Define their Strategy:** What is their marketing strategy? Do they have an email newsletter? Do they promote on social media? Do they create marketing content? How is their website? What type of customer are they trying to reach? How do they try to reach their customers?  
 
-Like this you can better and understand your competitors and then define how you are going to **differentiate yourself from them**. A good starting point for this is to try to get their **customers' pain points**. You can do this through their reviews and complaints or reflections. Try and analyse if you could improve the shipping, improve or add a new feature to the product, improve on overall customer experience. If you can get something here that can really differentiate them from you, you have defined a path to overcome them. 
+With this, you can better understand your competitors and then define how you are going to **differentiate yourself from them**. A good starting point for this is to try to get their **customers' pain points**. You can do this through their reviews and complaints or reflections. Try and analyse if you could improve the shipping, improve or add a new feature to the product, improve on overall customer experience. If you can get something here that can really differentiate them from you, you have defined a path to overcome them. 
 
 ### Step 3: Conduct a SWOT analysis 
 Even more important than knowing your competitors is knowing how you are different from them and for this we recommend frequently doing a SWOT analysis internally. Like this you will be able to understand your strengths, weaknesses and how you will leverage your opportunities to grow your business.  
