@@ -61,7 +61,7 @@ When talking about types of market research, it’s also possible to divide thos
 
 # How to conduct a Competitive Analysis? 
 Competitive Analysis helps you define who really are your competitors and how you can gain leverage by differentiating yourself from them in the shared market. It is essential to make more informed marketing decisions, benchmark against competitors and solidify your unique value proposition. It should be done regularly to stay up to date with the latest trends and identify new market pains.  
-#### Step 1: Define your competitors 
+### Step 1: Define your competitors 
 Defining who you are competing against is a very crucial step in competitive analysis. You do not want to be running the wrong race because you did not know who you were supposed to be running against. Which means that you need to be able to characterize your competitors based on their proximity to you. You can divide your competitors into two different pools. 
 - **Direct Competitors or Primary:** Sell a similar product to a similar audience.
 **Example:** Coca-Cola and Pepsi 
